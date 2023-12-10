@@ -1,0 +1,47 @@
+<style>
+
+		
+      body {
+        font-family: 'Noto Nastaliq Urdu', 'Arial', sans-serif;
+        background-color: white;
+        margin: 0;
+        padding: 0;
+        text-align: center; 
+    }  
+    .container{
+    	max-width: 600px;
+            margin: 20px auto;
+            background-color: lightgray;
+            padding: 20px;
+            box-shadow: 0 0 10px 
+            
+        }
+   
+        
+        
+    h1,h2,h3{
+    	text-align: center;
+    	background-color: gray;
+    }
+    p{
+    	background-color: burlywood;
+    }
+      
+      img {
+      	float: right;
+      	
+      }
+      a{
+        align-content: right;
+      }
+      
+     .imgcontainer{
+      float: left;
+     }
+
+
+ 
+
+
+
+	
